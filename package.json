@@ -1,0 +1,27 @@
+{
+  "name": "treehousetaskeight",
+  "version": "1.0.0",
+  "description": "gulp build test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulheading/TreehouseTaskEight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulheading/TreehouseTaskEight/issues"
+  },
+  "homepage": "https://github.com/paulheading/TreehouseTaskEight#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}
